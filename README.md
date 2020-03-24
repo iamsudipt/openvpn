@@ -1,6 +1,5 @@
 #
-[![CircleCI](https://circleci.com/gh/iamsudipt/openvpn/tree/circleci-project-setup.svg?style=svg)](https://app.circleci.com/pipelines/github/iamsudipt/openvpn?branch=circleci-project-setup)
-
+[![CircleCI](https://circleci.com/gh/iamsudipt/openvpn/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/iamsudipt/openvpn?branch=master)
 OpenVPN Role
 ============
 
