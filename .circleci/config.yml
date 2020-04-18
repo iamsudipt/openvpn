@@ -19,5 +19,5 @@
       jobs:
         - yaml_lint
         - ansible_lint
-  ...
+...
   
